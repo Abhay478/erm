@@ -1,0 +1,11 @@
+[package]
+name = "erm"
+version = "0.1.0"
+authors = ["Abhay Shankar K"]
+keywords = ["enum", "maybe", "option"]
+description = "A five-way enum to express uncertainty."
+repository = "https://github.com/Abhay478/erm"
+license = "MIT OR Apache-2.0"
+edition = "2024"
+
+[dependencies]
